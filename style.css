@@ -58,3 +58,17 @@ button:hover{
 h1.temperature{
     margin: 0;
 }
+
+.weather.loading {
+    visibility: hidden;
+    max-width: 15px;
+    position: relative;
+}
+
+.weather.loading:after {
+    visibility: visible;
+    content: "Loading...";
+    color: white;
+    position: absolute;
+    top: 0;
+}
