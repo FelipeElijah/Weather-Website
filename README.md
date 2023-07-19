@@ -1,0 +1,1 @@
+This project is a weather App made with HTML,CSS, and VanillaJS connected to OpenWeatherMap API and it searches for the temperature, wind speed, and humidity of a city when you write the name of the city in the search input and press the search button.
